@@ -1,0 +1,6 @@
+user_name: Nikolai,
+user_surname: Plegunov
+age: 38,
+pet_count: 2
+desired_salary: 2000
+	

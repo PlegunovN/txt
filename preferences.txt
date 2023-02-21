@@ -1,0 +1,6 @@
+my_preferences:
+	movie: "Guardians of the Galaxy",
+	series: "Friends",
+	food: dumplings,
+	season: spring,
+	desiredcountry: New Zealand.

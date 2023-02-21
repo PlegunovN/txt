@@ -1,0 +1,17 @@
+Bug_1:
+
+Title: text overlay in skills list;
+
+Equipment: Redmi_Note_9;
+
+URL: https://ksendzov.com/;
+
+Steps:
+	1.go to https://ksendzov.com;
+      2.scroll to the bottom of the list Course Program;
+    
+Actual_result: the last line of the program will overlap with the next heading;
+
+Expected_result: text without overlays.       
+    
+    
